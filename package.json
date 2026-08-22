@@ -12,7 +12,7 @@
     "nodemon": "^2.0.13",
     "reflect-metadata": "^0.1.13",
     "type-graphql": "^1.1.1",
-    "typeorm": "^0.2.37"
+    "typeorm": "^0.3.31"
   },
   "scripts": {
     "start": "nodemon --exec ts-node src/index.ts"
